@@ -48,7 +48,7 @@ Where possible, I cite sources and keep derivations transparent. If you spot an 
 
 # Socials 
 
-LinkedIn : https://www.linkedin.com/in/vineeth-s-bhat/
-GitHub : https://github.com/vineethsbhat/aeropython
-VSCO : https://vsco.co/vineetbhat/gallery (P.S. I also do amateur photography)
-Email : vsbhat015@gmail.com 
+- LinkedIn : https://www.linkedin.com/in/vineeth-s-bhat/
+- GitHub : https://github.com/vineethsbhat/aeropython
+- VSCO : https://vsco.co/vineetbhat/gallery (P.S. I also do amateur photography)
+- Email : vsbhat015@gmail.com 
