@@ -29,6 +29,12 @@ Please refer to the MOC :
 
 
 
+#### Keep up with the latest in space tech :
+- European Space Flight : https://europeanspaceflight.com/
+- Confederation of Indian Industry : https://ciiblog.in/category/industry/
+- NASA : https://www.space.com/
+- Space Capital : https://www.spacecapital.com/blogs
+- Space India : https://space-india.com/
 
 
 
