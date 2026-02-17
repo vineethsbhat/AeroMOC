@@ -2,7 +2,7 @@
 tags:
   - composites
 ---
-# ==DESIGN AND ANALYSIS OF COMPOSITE STRUCTURES WITH APPLICATIONS TO AEROSPACE STRUCTURES==
+##### DESIGN AND ANALYSIS OF COMPOSITE STRUCTURES WITH APPLICATIONS TO AEROSPACE STRUCTURES
 
 1. [[Qualitative Discussion on Costs of Composites]]
 2. [[Composite Structural Components and Mathematical Formulation]]

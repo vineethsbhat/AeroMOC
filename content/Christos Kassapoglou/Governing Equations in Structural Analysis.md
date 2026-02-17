@@ -78,4 +78,4 @@ $$(\lambda + \mu) \nabla (\nabla \cdot \mathbf{u}) + \mu \nabla^2 \mathbf{u} + \
 
 
 ---
-Take a look at : [[Euler Bernoulli Beam Theory]] , [[Kirchhoff-Plate Theory]], [[Timoshenko-Beam Theory]] , [[Bredt-Batho Theory]] , [[Donnell-Mushtari-Vlasov (DMV) Theory]] , 
+Take a look at : [[Euler Bernoulli Beam Theory]] , [[Kirchhoff-Plate Theory]], [[Timoshenko-Beam Theory]] , [[Bredt-Batho Theory]] , [[Donnell-Mushtari-Vlasov (DMV) Theory]] 
