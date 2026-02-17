@@ -4,9 +4,11 @@ tags:
 ---
 Cost estimation remains one of the least understood and ill-deﬁned aspects of a structure:
 
-a. Cost data for different fabrication processes and types of parts are proprietary and only indirect values are released
-b. There is no well defined method to relate design to cost of resulting structure
-c. Different companies follow different ways of book keeping thus it is hard to compare
+*But why ?*
+
+- Cost data for different fabrication processes and types of parts are proprietary and only indirect values are released
+- There is no well defined method to relate design to cost of resulting structure
+- Different companies follow different ways of book keeping thus it is hard to compare
 
 
 >In the case of composites, the situation is further complicated by the relative novelty of the materials and processes being used, the constant emergence of new processes or variations thereof that alter the cost structure and the high nonrecurring cost associated with switching to the new processes that, usually, acts as a deterrent towards making the switch.
@@ -17,11 +19,11 @@ c. Different companies follow different ways of book keeping thus it is hard to 
 There are two kinds of costs :
 1. Recurring : The recurring cost includes the raw material, the labour hours spent in fabricating the part and cost of attaching it to the rest of the structure.
 
->In case of hand layup the costliest step is placing the plies into the mold/locating the plies into the mould. (42%) and assembly process is (29%), followed by curing process at (7.9%). This is reason for introducing automation (to reduce overhead costs). 
+>In case of hand layup the costliest step is placing the plies into the mold/locating the plies into the mould. (42%) and assembly process is (29%), followed by curing process at (7.9%). This is  the reason for introducing automation (to reduce overhead costs). 
 
->For example is AFP process the plies are located automatically in the mould, thus reducing human error and cost. And as for assembly, increasing the amount of co-cured components will improve efficiency and costs. Other automated processes, cutting, trimming, and drilling have reduced it further
+>For example in AFP process the plies are located automatically in the mould, thus reducing human error and cost. And as for assembly, increasing the amount of co-cured components will improve efficiency and costs. Other automated processes, cutting, trimming, and drilling have reduced it further.
 
->Further improvements have been made in the textile industry thus allowing for tech like braiding, weaving, knitting, etc. RTM parts have 10-15 % less strength (compression and shear) than the prepeg equivalents due to reduced resin content. RTM also has high non recurring costs since the moulds have to manufactured newly based on the part. This is where we use VARTM, where one of the mould is flexible caul plate. 
+>Further improvements have been made in the textile industry thus allowing for tech like braiding, weaving, knitting, etc. RTM parts have 10-15 % less strength (compression and shear) than the prepeg equivalents due to reduced resin content. RTM also has high non recurring costs since the moulds have to manufactured newly based on the part. This is where we use VARTM, where one of the mould is used as a flexible caul plate. 
 
 >For parts that have large surface area and small variation in thickness we use AFP or automated tow placement. Material scrap is very low and convex as well as concave tools can be used since the machine does not rely on constant fiber tension. This ability to lay down fibers as needed is an advantage because of transferring loads efficiently across the part.
 
@@ -51,6 +53,8 @@ Therefore, while the conclusion that a less-automated process will give lower av
 a. Design (Conceptual, Preliminary, Detail) 
 b. Analysis : To find loads acting on the part and influence stacking sequence, geometry, and reduce weight. This part of the development process is widely involved and largely complex
 c. Tooling : This involves fabrication and design of tools needed to produce the part (jigs, fixtures, moulds etc). In a moulding process we must keep in mind the effect of spring back and thermal expansion due to residual stresses. 
+
+
 >This is where we can use special metal alloys like invar can be used where dimensional tolerances are critical. Tooling is thus one of the largest contributors to non-recurring costs. 
 
 d. Testing : Quite expensive since the sub components as well as full structure has to be tested for verification of experiments.
