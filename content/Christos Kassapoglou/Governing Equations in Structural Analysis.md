@@ -40,7 +40,7 @@ $$\nabla \times (\nabla \times \boldsymbol{\varepsilon})^T = 0$$
 Historically this equation grew out of geometrical analysis of a beam. In the mid 1700s Euler was fascinated with how a beam bent under load ('Elastic Curve'). He derived the curvature equation
 
 $$k = \frac{d^2 y}{dx^2}$$
-which was like the 1D version of the strain displacement equation
+which was the 1D version of the strain displacement equation
 
 3. ==Constitutive Equations (Material Law)==
 This links the first two pillars. It relates Stress (Force) to Strain (Deformation). The Equation (Generalized Hooke's Law) is given as :
