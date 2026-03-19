@@ -20,6 +20,7 @@ In aerospace, we categorize compression members into two groups. A linear analys
 >If you run a linear analysis on a "stubby" fitting, the solver might give you a Buckling Load Factor (BLF) of **2.0**. However, because the material yields and loses stiffness at a BLF of **0.8**, the part will actually fail before it even reaches the design load.
 
 ### The Idea of Mode Switching :
+
 When material nonlinearity is present, the **mode shape** can actually change
 
 In a linear analysis, the structure might show a nice, global flexural buckling mode. In a nonlinear reality, a local area might yield first (like a flange on a stringer). This local softening causes the structure to "cripple" or fold in a way the linear solver can never predict. 
@@ -34,4 +35,9 @@ Before modern high-speed FEA, engineers used the **Engesser** or **Shanley** the
 - The solver updates the stiffness matrix at every step based on the current stress state.
 - If the solver "diverges" (cannot find an equilibrium), the structure has buckled or collapsed.
 
+>Note : You will never observe buckling in a linear static analysis (the structure will compress and the cross section changes a bit due to the possion's effect)
 
+
+#### The Johnson-Euler Parabola
+
+In aerospace, most parts aren't "perfectly slender" or "perfectly stubby"—they are somewhere in between. For "intermediate" columns, the real buckling load is significantly lower than the Euler prediction because the material is partially yielding before the geometric snap happens. Aerospace engineers use the **Johnson Column** formula or **Coates' curves** to account for this "softening" that linear FEA ignores
