@@ -38,6 +38,7 @@ tags:
 3. Multiscale Modelling in Composites
 	1. [[Multiscale Approach to Modelling]]
 	2. [[How is Multiscale Modelling Done]]
+	3. [[CMH-17 (Composite Materials Handbook)]]
 4. Advanced Mechanics of Composite Materials
 	1. [[Analysis of Textile Composites]]
 	2. [[Out of plane stresses and why CLT isn't enough]]

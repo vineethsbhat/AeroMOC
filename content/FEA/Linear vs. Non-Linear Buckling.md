@@ -44,6 +44,6 @@ This approach is more computationally expensive but necessary for flight-critica
 
 - Outcome is more robust
 
-- Requires much more computational effort, convergence problems, far more difficult to set up
+- Requires much more computational effort (memory allocation, symmetry, solver settings), convergence problems, far more difficult to set up
 
 
