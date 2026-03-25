@@ -38,6 +38,12 @@ A beam of UV light is focused on the top layer of liquid photo curable resin. Ea
 
 Curing is done over the depth of the layer in a parabolic fashion due to the resin obeying the Beer-Lambert Law. This leads to pockets of uncured resin within the model. This trapped resin is cured during post-processing and the model becomes elastically inhomogeneous. 
 
+Current Challenges :
 
+1. Heterogeneity needs to be modelled suitably
+2. Metallic foams are useful in crash guards and they break the elastic continuum idealization
+3. High temperature titanium blades suffer from macroporosity
+4. We need better understanding of functionally graded material
+5. Small deformation assumption is too restrictive 
 
 
